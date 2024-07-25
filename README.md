@@ -17,7 +17,7 @@ Utilizei o "ChatGPT" para gerar o conteúdo do ebook. Estive recentemente trabal
 
 O e-book apresenta um conteúdo prático e direto sobre a utilização de props aria em tags html.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/antoniofmoliveira/lab-natty-or-not/blob/main/exemplos/aria.md)
 
 ## 💭 Reflexão
 
